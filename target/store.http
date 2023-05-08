@@ -1,0 +1,8 @@
+GET http://localhost:8080/store/order/add?id=1,2,3,4
+
+###
+GET http://localhost:8080/store/order/get
+
+
+
+#cocke JSESSIONID=A8665B70C7719352834A8F1039CB761D
